@@ -9,6 +9,7 @@ _Student ID: 2023149028_
 
 This repository contains the dataset, source code, and final report for the Day/Night Image Classification task.
 
+- `CAS2105__Homework_6_Submission_2023149028.pdf`: The final project report.
 - **`dataset/`**: Contains processed Day/Night images (Standardized JPG format).
 - **`notebooks/`**:
   - `day_night_classifier.ipynb`: **[Main]** The main pipeline code (Baseline vs. AI Model). Run this to reproduce the results.
